@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Abraham! 👋
 
+I'm a student developer from Ethiopia interested in **Computer Science, AI, and Machine Learning**.
+
+- 💻 Learning Python and building projects.
+- 🧠 Exploring AI, algorithms, and cybersecurity.
+- 🌍 Founder of [Ethio2030](https://www.ethio2030.et).
+- 🚀 Working on projects that solve real-world problems.
+
+Always learning, building, and improving!
 <!--
 **abrahammuruts123/abrahammuruts123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
